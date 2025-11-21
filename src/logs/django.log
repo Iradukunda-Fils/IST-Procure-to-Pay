@@ -1,0 +1,223 @@
+{"level": "WARNING", "time": "2025-11-20 23:14:33,275", "module": "log", "message": "Not Found: /"}
+{"level": "WARNING", "time": "2025-11-20 23:14:33,276", "module": "basehttp", "message": ""GET / HTTP/1.1" 404 3620"}
+{"level": "WARNING", "time": "2025-11-20 23:14:36,479", "module": "log", "message": "Not Found: /favicon.ico"}
+{"level": "WARNING", "time": "2025-11-20 23:14:36,481", "module": "basehttp", "message": ""GET /favicon.ico HTTP/1.1" 404 3671"}
+{"level": "WARNING", "time": "2025-11-20 23:14:43,707", "module": "log", "message": "Not Found: /admin-dashboard/category/"}
+{"level": "WARNING", "time": "2025-11-20 23:14:43,709", "module": "basehttp", "message": ""GET /admin-dashboard/category/ HTTP/1.1" 404 3713"}
+{"level": "INFO", "time": "2025-11-20 23:14:50,333", "module": "basehttp", "message": ""GET /admin HTTP/1.1" 301 0"}
+{"level": "INFO", "time": "2025-11-20 23:14:50,373", "module": "basehttp", "message": ""GET /admin/ HTTP/1.1" 302 0"}
+{"level": "INFO", "time": "2025-11-20 23:14:50,581", "module": "basehttp", "message": ""GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173"}
+{"level": "INFO", "time": "2025-11-20 23:14:51,127", "module": "basehttp", "message": ""GET /static/admin/css/base.css HTTP/1.1" 200 22120"}
+{"level": "INFO", "time": "2025-11-20 23:14:51,131", "module": "basehttp", "message": ""GET /static/admin/css/login.css HTTP/1.1" 200 951"}
+{"level": "INFO", "time": "2025-11-20 23:14:51,159", "module": "basehttp", "message": ""GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808"}
+{"level": "INFO", "time": "2025-11-20 23:14:51,162", "module": "basehttp", "message": ""GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810"}
+{"level": "INFO", "time": "2025-11-20 23:14:51,173", "module": "basehttp", "message": ""GET /static/admin/css/responsive.css HTTP/1.1" 200 16565"}
+{"level": "INFO", "time": "2025-11-20 23:14:51,184", "module": "basehttp", "message": ""GET /static/admin/js/theme.js HTTP/1.1" 200 1653"}
+{"level": "INFO", "time": "2025-11-20 23:14:51,241", "module": "basehttp", "message": ""GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063"}
+{"level": "INFO", "time": "2025-11-20 23:14:55,143", "module": "basehttp", "message": ""POST /admin/login/?next=/admin/ HTTP/1.1" 200 4344"}
+{"level": "INFO", "time": "2025-11-20 23:16:19,977", "module": "basehttp", "message": ""POST /admin/login/?next=/admin/ HTTP/1.1" 302 0"}
+{"level": "INFO", "time": "2025-11-20 23:16:20,092", "module": "basehttp", "message": ""GET /admin/ HTTP/1.1" 200 6096"}
+{"level": "INFO", "time": "2025-11-20 23:16:20,282", "module": "basehttp", "message": ""GET /static/admin/css/dashboard.css HTTP/1.1" 200 441"}
+{"level": "INFO", "time": "2025-11-20 23:16:20,389", "module": "basehttp", "message": ""GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331"}
+{"level": "INFO", "time": "2025-11-20 23:16:20,396", "module": "basehttp", "message": ""GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380"}
+{"level": "INFO", "time": "2025-11-20 23:16:23,593", "module": "basehttp", "message": ""GET /admin/auth/user/ HTTP/1.1" 200 11316"}
+{"level": "INFO", "time": "2025-11-20 23:16:23,780", "module": "basehttp", "message": ""GET /static/admin/css/changelists.css HTTP/1.1" 200 6878"}
+{"level": "INFO", "time": "2025-11-20 23:16:23,832", "module": "basehttp", "message": ""GET /admin/auth/user/ HTTP/1.1" 200 11316"}
+{"level": "INFO", "time": "2025-11-20 23:16:23,833", "module": "basehttp", "message": ""GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347"}
+{"level": "INFO", "time": "2025-11-20 23:16:23,934", "module": "basehttp", "message": ""GET /static/admin/js/core.js HTTP/1.1" 200 6208"}
+{"level": "INFO", "time": "2025-11-20 23:16:23,947", "module": "basehttp", "message": ""GET /static/admin/js/actions.js HTTP/1.1" 200 8076"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,006", "module": "basehttp", "message": "- Broken pipe from ('127.0.0.1', 57254)"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,056", "module": "basehttp", "message": "- Broken pipe from ('127.0.0.1', 64124)"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,065", "module": "basehttp", "message": "- Broken pipe from ('127.0.0.1', 53359)"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,115", "module": "basehttp", "message": ""GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,143", "module": "basehttp", "message": ""GET /static/admin/js/urlify.js HTTP/1.1" 200 7887"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,150", "module": "basehttp", "message": ""GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,170", "module": "basehttp", "message": "- Broken pipe from ('127.0.0.1', 57253)"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,172", "module": "basehttp", "message": ""GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,182", "module": "basehttp", "message": "- Broken pipe from ('127.0.0.1', 61105)"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,188", "module": "basehttp", "message": ""GET /admin/jsi18n/ HTTP/1.1" 200 3342"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,219", "module": "basehttp", "message": ""GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,230", "module": "basehttp", "message": ""GET /static/admin/img/search.svg HTTP/1.1" 200 458"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,267", "module": "basehttp", "message": ""GET /static/admin/js/filters.js HTTP/1.1" 200 978"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,271", "module": "basehttp", "message": "- Broken pipe from ('127.0.0.1', 49189)"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,286", "module": "basehttp", "message": ""GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,335", "module": "basehttp", "message": ""GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,339", "module": "basehttp", "message": ""GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581"}
+{"level": "INFO", "time": "2025-11-20 23:16:24,341", "module": "basehttp", "message": ""GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,416", "module": "basehttp", "message": ""GET /admin/auth/user/1/change/ HTTP/1.1" 200 21463"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,473", "module": "basehttp", "message": ""GET /static/admin/css/forms.css HTTP/1.1" 200 8525"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,497", "module": "basehttp", "message": ""GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,494", "module": "basehttp", "message": ""GET /static/admin/js/calendar.js HTTP/1.1" 200 9141"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,504", "module": "basehttp", "message": ""GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,555", "module": "basehttp", "message": ""GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15845"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,556", "module": "basehttp", "message": ""GET /admin/jsi18n/ HTTP/1.1" 200 3342"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,571", "module": "basehttp", "message": ""GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,575", "module": "basehttp", "message": ""GET /static/admin/css/widgets.css HTTP/1.1" 200 11973"}
+{"level": "INFO", "time": "2025-11-20 23:16:31,631", "module": "basehttp", "message": ""GET /static/admin/js/change_form.js HTTP/1.1" 200 606"}
+{"level": "INFO", "time": "2025-11-20 23:16:32,297", "module": "basehttp", "message": ""GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086"}
+{"level": "INFO", "time": "2025-11-20 23:16:32,299", "module": "basehttp", "message": ""GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677"}
+{"level": "INFO", "time": "2025-11-20 23:16:32,300", "module": "basehttp", "message": ""GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291"}
+{"level": "WARNING", "time": "2025-11-20 23:28:25,788", "module": "log", "message": "Unauthorized: /api/auth/token/"}
+{"level": "WARNING", "time": "2025-11-20 23:28:29,378", "module": "log", "message": "Unauthorized: /api/auth/token/refresh/"}
+{"level": "WARNING", "time": "2025-11-20 23:28:33,191", "module": "log", "message": "Unauthorized: /api/requests/"}
+{"level": "WARNING", "time": "2025-11-20 23:29:40,436", "module": "log", "message": "Unauthorized: /api/auth/token/"}
+{"level": "WARNING", "time": "2025-11-20 23:29:44,967", "module": "log", "message": "Unauthorized: /api/auth/token/refresh/"}
+{"level": "WARNING", "time": "2025-11-20 23:29:48,502", "module": "log", "message": "Unauthorized: /api/requests/"}
+{"level": "WARNING", "time": "2025-11-20 23:35:40,846", "module": "log", "message": "Unauthorized: /api/auth/token/"}
+{"level": "WARNING", "time": "2025-11-20 23:35:44,364", "module": "log", "message": "Unauthorized: /api/auth/token/refresh/"}
+{"level": "WARNING", "time": "2025-11-20 23:35:47,538", "module": "log", "message": "Unauthorized: /api/requests/"}
+{"level": "WARNING", "time": "2025-11-21 00:42:00,724", "module": "log", "message": "Not Found: /api/documents/documents/5ea5a866-1acd-44a2-8045-8917592ac9eb/download/"}
+{"level": "WARNING", "time": "2025-11-21 00:51:05,696", "module": "log", "message": "Not Found: /api/requests/688526af-aa76-4a64-92b3-1a84ae742ed7/receipt-validation-status/"}
+{"level": "WARNING", "time": "2025-11-21 00:51:07,785", "module": "log", "message": "Bad Request: /api/requests/fc459cd1-76d7-4084-9a9a-46ac284ba5fa/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:51:09,998", "module": "log", "message": "Bad Request: /api/requests/dcbadb0d-e34f-440e-9f07-9b2de19b9b2a/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:51:12,329", "module": "log", "message": "Bad Request: /api/requests/ce4e61ed-2bec-45a2-a7c5-b4df5f9db301/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:51:16,854", "module": "log", "message": "Unauthorized: /api/requests/edcda26b-6bff-49bf-93c8-79b091d17ecd/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:51:19,949", "module": "log", "message": "Not Found: /api/requests/67287be8-48e4-47f8-8edf-ab3a79c8cbc4/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:52:06,753", "module": "log", "message": "Not Found: /api/requests/fdc77680-6b05-4ed3-80b8-295a5433ace0/receipt-validation-status/"}
+{"level": "WARNING", "time": "2025-11-21 00:52:09,022", "module": "log", "message": "Bad Request: /api/requests/edb5d8f1-b285-42ae-8a9d-bdd60776590d/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:52:11,143", "module": "log", "message": "Bad Request: /api/requests/05e33546-d5b6-486c-957a-5a522e70775c/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:52:13,259", "module": "log", "message": "Bad Request: /api/requests/5ae33c23-5142-44fb-aebc-5ea42b5a7ae1/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:52:18,050", "module": "log", "message": "Unauthorized: /api/requests/eafb7a69-5cf5-4f2a-b56c-ba0dffa88180/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:52:21,551", "module": "log", "message": "Not Found: /api/requests/3a5c1c2b-e7a9-44c7-a7ba-2d4f9222b333/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 00:52:52,099", "module": "log", "message": "Not Found: /"}
+{"level": "WARNING", "time": "2025-11-21 00:52:52,101", "module": "basehttp", "message": ""GET / HTTP/1.1" 404 3620"}
+{"level": "WARNING", "time": "2025-11-21 00:53:06,653", "module": "log", "message": "Not Found: /documents"}
+{"level": "WARNING", "time": "2025-11-21 00:53:06,658", "module": "basehttp", "message": ""GET /documents HTTP/1.1" 404 3665"}
+{"level": "INFO", "time": "2025-11-21 00:53:16,864", "module": "basehttp", "message": ""GET /api/documents HTTP/1.1" 301 0"}
+{"level": "WARNING", "time": "2025-11-21 00:53:16,874", "module": "log", "message": "Unauthorized: /api/documents/"}
+{"level": "WARNING", "time": "2025-11-21 00:53:16,875", "module": "basehttp", "message": ""GET /api/documents/ HTTP/1.1" 401 58"}
+{"level": "WARNING", "time": "2025-11-21 00:56:55,737", "module": "log", "message": "Unauthorized: /api/documents/"}
+{"level": "WARNING", "time": "2025-11-21 00:56:55,742", "module": "basehttp", "message": ""GET /api/documents/ HTTP/1.1" 401 58"}
+{"level": "WARNING", "time": "2025-11-21 00:56:58,503", "module": "log", "message": "Unauthorized: /api/documents/"}
+{"level": "WARNING", "time": "2025-11-21 00:56:58,505", "module": "basehttp", "message": ""GET /api/documents/ HTTP/1.1" 401 58"}
+{"level": "WARNING", "time": "2025-11-21 00:59:57,333", "module": "log", "message": "Not Found: /api/requests/8842da47-f8fb-4215-9498-b13946d25fd8/receipt-validation-status/"}
+{"level": "WARNING", "time": "2025-11-21 00:59:59,895", "module": "log", "message": "Bad Request: /api/requests/d5b62a73-d477-4ec2-a5a4-085bbd494ebc/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:00:02,434", "module": "log", "message": "Bad Request: /api/requests/c551a7af-f3c1-492b-b6b8-f450156582e6/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:00:05,243", "module": "log", "message": "Bad Request: /api/requests/be14dca2-fa75-4bcb-a801-f5d55ccd99c2/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:00:10,705", "module": "log", "message": "Unauthorized: /api/requests/2d021714-a5e4-4c19-a224-7ecf43560226/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:00:15,367", "module": "log", "message": "Not Found: /api/requests/02a29397-1f83-4225-83e1-0e28ae5b924c/submit-receipt/"}
+{"level": "INFO", "time": "2025-11-21 01:03:22,211", "module": "receipt_validation", "message": "Receipt validation completed for document a278281f-147e-42a3-9821-247f5db6e355. Match score: 0.95, Needs review: False"}
+{"level": "INFO", "time": "2025-11-21 01:03:54,696", "module": "receipt_validation", "message": "Receipt validation completed for document 97beb59e-0443-40b3-895a-2ab1df19e1c3. Match score: 0.95, Needs review: False"}
+{"level": "INFO", "time": "2025-11-21 01:03:58,171", "module": "receipt_validation", "message": "Receipt validation completed for document ce242fd1-7112-4377-a517-d3a06abc0fb3. Match score: 0.95, Needs review: False"}
+{"level": "WARNING", "time": "2025-11-21 01:04:03,238", "module": "log", "message": "Not Found: /api/requests/0e76d357-3a07-4f30-a3e1-6f27214215a4/receipt-validation-status/"}
+{"level": "WARNING", "time": "2025-11-21 01:04:06,322", "module": "log", "message": "Bad Request: /api/requests/5791b5b0-9bbf-4617-abd4-e7edaaab4b24/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:04:09,743", "module": "log", "message": "Bad Request: /api/requests/f089f53a-5bde-4d55-8fc5-369907e189b3/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:04:13,437", "module": "log", "message": "Bad Request: /api/requests/157e2a41-8ccf-4329-9681-1ffa3fdfc8ad/submit-receipt/"}
+{"level": "INFO", "time": "2025-11-21 01:04:17,005", "module": "receipt_validation", "message": "Receipt validation completed for document 096ad8b0-3a75-4b7c-aea1-bb62a262444d. Match score: 0.95, Needs review: False"}
+{"level": "WARNING", "time": "2025-11-21 01:04:19,944", "module": "log", "message": "Unauthorized: /api/requests/b155556b-6031-4f79-a606-bbfe57848344/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:04:23,862", "module": "log", "message": "Not Found: /api/requests/e8a8ca9a-27c1-4a5b-84d9-ea9036d3f460/submit-receipt/"}
+{"level": "INFO", "time": "2025-11-21 01:07:09,884", "module": "receipt_validation", "message": "Receipt validation completed for document 550f7571-5eb0-43b0-99e7-eb6e43d1c2f7. Match score: 0.95, Needs review: False"}
+{"level": "ERROR", "time": "2025-11-21 01:07:11,318", "module": "receipt_validation", "message": "Receipt validation failed: ['“invalid-id” is not a valid UUID.']"}
+{"level": "ERROR", "time": "2025-11-21 01:07:12,773", "module": "receipt_validation", "message": "Receipt validation failed: ['“invalid-id” is not a valid UUID.']"}
+{"level": "INFO", "time": "2025-11-21 01:07:14,264", "module": "receipt_validation", "message": "Receipt validation completed for document 86516359-188b-4c69-abbb-01da75df58a5. Match score: 0.95, Needs review: False"}
+{"level": "INFO", "time": "2025-11-21 01:08:06,446", "module": "receipt_validation", "message": "Receipt validation completed for document ee6cb1ed-3b1e-4d75-96b5-b79cce3062af. Match score: 0.95, Needs review: False"}
+{"level": "ERROR", "time": "2025-11-21 01:08:09,424", "module": "receipt_validation", "message": "Receipt document not found: c73e6670-792a-4c7c-b654-21204b1a9a51"}
+{"level": "ERROR", "time": "2025-11-21 01:08:11,439", "module": "receipt_validation", "message": "Purchase order not found: 2e93752d-dce4-46ea-b2f1-4a23d25d1ad9"}
+{"level": "INFO", "time": "2025-11-21 01:08:13,196", "module": "receipt_validation", "message": "Receipt validation completed for document 93a7c7dd-b3cb-46e2-8417-e4518cabea3e. Match score: 0.95, Needs review: False"}
+{"level": "INFO", "time": "2025-11-21 01:08:44,811", "module": "receipt_validation", "message": "Receipt validation completed for document 0cedae3a-f8df-41cd-bce2-1fce4d789070. Match score: 0.95, Needs review: False"}
+{"level": "INFO", "time": "2025-11-21 01:08:49,433", "module": "receipt_validation", "message": "Receipt validation completed for document c8558313-a65b-4398-8a4e-d6ef9beca8e1. Match score: 0.95, Needs review: False"}
+{"level": "WARNING", "time": "2025-11-21 01:08:54,899", "module": "log", "message": "Not Found: /api/requests/20287f4a-1961-422f-a6f3-1cb493da6225/receipt-validation-status/"}
+{"level": "WARNING", "time": "2025-11-21 01:08:58,138", "module": "log", "message": "Bad Request: /api/requests/68b83205-e6f2-4ad0-ad6d-ca623f8dbab1/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:09:01,383", "module": "log", "message": "Bad Request: /api/requests/967baf00-3853-4c38-b498-49fa3cc9ecbe/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:09:04,537", "module": "log", "message": "Bad Request: /api/requests/8c36008a-9614-4696-911b-530a97a3a043/submit-receipt/"}
+{"level": "INFO", "time": "2025-11-21 01:09:07,510", "module": "receipt_validation", "message": "Receipt validation completed for document 7eab7a95-a39a-4d47-851d-996fa06720ac. Match score: 0.95, Needs review: False"}
+{"level": "WARNING", "time": "2025-11-21 01:09:09,908", "module": "log", "message": "Unauthorized: /api/requests/af59ca58-5c6e-4255-a9b1-9ab3c789ed14/submit-receipt/"}
+{"level": "WARNING", "time": "2025-11-21 01:09:13,552", "module": "log", "message": "Not Found: /api/requests/0f984fb4-5e62-4c77-8cdc-5a1844820539/submit-receipt/"}
+{"level": "INFO", "time": "2025-11-21 01:09:25,104", "module": "receipt_validation", "message": "Receipt validation completed for document c3e3e86c-9e5e-43f8-a2bc-a15e62b56be2. Match score: 0.95, Needs review: False"}
+{"level": "ERROR", "time": "2025-11-21 01:09:26,979", "module": "receipt_validation", "message": "Receipt document not found: e248741e-5130-4ed7-be1c-96f63a51419d"}
+{"level": "ERROR", "time": "2025-11-21 01:09:28,370", "module": "receipt_validation", "message": "Purchase order not found: b8829fe9-d6c3-4965-89ac-c120e5770644"}
+{"level": "INFO", "time": "2025-11-21 01:09:29,716", "module": "receipt_validation", "message": "Receipt validation completed for document 326c4763-7fdb-47af-ba49-4007aca33498. Match score: 0.95, Needs review: False"}
+{"level": "ERROR", "time": "2025-11-21 01:42:17,808", "module": "log", "message": "Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS."}
+Traceback (most recent call last):
+  File "C:\Lost\IST-Procure-to-Pay\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Lost\IST-Procure-to-Pay\.venv\Lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "C:\Lost\IST-Procure-to-Pay\.venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Lost\IST-Procure-to-Pay\.venv\Lib\site-packages\django\http\request.py", line 202, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'testserver'. You may need to add 'testserver' to ALLOWED_HOSTS.
+{"level": "WARNING", "time": "2025-11-21 01:50:35,945", "module": "log", "message": "Forbidden: /api/documents/documents/b31ef262-7397-460c-b38c-1d79bc924e0e/"}
+{"level": "WARNING", "time": "2025-11-21 01:50:47,884", "module": "log", "message": "Not Found: /api/documents/documents/c9a2f87d-4881-4029-b046-97db3b2d94c4/download/"}
+{"level": "WARNING", "time": "2025-11-21 01:51:15,623", "module": "log", "message": "Bad Request: /api/documents/documents/"}
+{"level": "WARNING", "time": "2025-11-21 01:51:29,081", "module": "log", "message": "Unauthorized: /api/documents/documents/"}
+{"level": "INFO", "time": "2025-11-21 01:56:05,134", "module": "storage", "message": "File validation passed for: test.pdf (1024 bytes)"}
+{"level": "INFO", "time": "2025-11-21 01:56:27,063", "module": "storage", "message": "File validation passed for: test.pdf (1024 bytes)"}
+{"level": "WARNING", "time": "2025-11-21 01:58:23,912", "module": "log", "message": "Not Found: /"}
+{"level": "WARNING", "time": "2025-11-21 01:58:23,914", "module": "basehttp", "message": ""GET / HTTP/1.1" 404 3620"}
+{"level": "WARNING", "time": "2025-11-21 01:58:29,184", "module": "log", "message": "Not Found: /favicon.ico"}
+{"level": "WARNING", "time": "2025-11-21 01:58:29,200", "module": "basehttp", "message": ""GET /favicon.ico HTTP/1.1" 404 3671"}
+{"level": "WARNING", "time": "2025-11-21 01:58:33,810", "module": "log", "message": "Unauthorized: /api/documents/"}
+{"level": "WARNING", "time": "2025-11-21 01:58:33,818", "module": "basehttp", "message": ""GET /api/documents/ HTTP/1.1" 401 58"}
+{"level": "WARNING", "time": "2025-11-21 01:58:39,179", "module": "log", "message": "Not Found: /api/"}
+{"level": "WARNING", "time": "2025-11-21 01:58:39,192", "module": "basehttp", "message": ""GET /api/ HTTP/1.1" 404 3650"}
+{"level": "INFO", "time": "2025-11-21 02:04:17,896", "module": "storage", "message": "File validation passed for: test.pdf (1024 bytes)"}
+{"level": "WARNING", "time": "2025-11-21 02:11:24,492", "module": "storage", "message": "S3 storage requested but missing settings: ['AWS_ACCESS_KEY_ID', 'AWS_SECRET_ACCESS_KEY', 'AWS_STORAGE_BUCKET_NAME']. Falling back to local storage."}
+{"level": "INFO", "time": "2025-11-21 02:11:24,765", "module": "storage", "message": "File validation passed for: test.pdf (500000 bytes)"}
+{"level": "WARNING", "time": "2025-11-21 02:14:15,342", "module": "storage", "message": "S3 storage requested but missing settings: ['AWS_ACCESS_KEY_ID', 'AWS_SECRET_ACCESS_KEY', 'AWS_STORAGE_BUCKET_NAME']. Falling back to local storage."}
+{"level": "INFO", "time": "2025-11-21 02:14:15,419", "module": "storage", "message": "File validation passed for: test.pdf (500000 bytes)"}
+{"level": "WARNING", "time": "2025-11-21 02:14:38,892", "module": "storage", "message": "S3 storage requested but missing settings: ['AWS_ACCESS_KEY_ID', 'AWS_SECRET_ACCESS_KEY', 'AWS_STORAGE_BUCKET_NAME']. Falling back to local storage."}
+{"level": "INFO", "time": "2025-11-21 02:14:39,175", "module": "storage", "message": "File validation passed for: test.pdf (500000 bytes)"}
+{"level": "ERROR", "time": "2025-11-21 02:23:27,002", "module": "redis", "message": "Connection to Redis lost: Retry (0/20) now."}
+{"level": "ERROR", "time": "2025-11-21 02:23:31,019", "module": "redis", "message": "Connection to Redis lost: Retry (1/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:23:36,044", "module": "redis", "message": "Connection to Redis lost: Retry (2/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:23:41,058", "module": "redis", "message": "Connection to Redis lost: Retry (3/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:23:46,082", "module": "redis", "message": "Connection to Redis lost: Retry (4/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:23:51,116", "module": "redis", "message": "Connection to Redis lost: Retry (5/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:23:56,146", "module": "redis", "message": "Connection to Redis lost: Retry (6/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:24:01,163", "module": "redis", "message": "Connection to Redis lost: Retry (7/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:24:06,176", "module": "redis", "message": "Connection to Redis lost: Retry (8/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:24:11,203", "module": "redis", "message": "Connection to Redis lost: Retry (9/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:24:16,215", "module": "redis", "message": "Connection to Redis lost: Retry (10/20) in 1.00 second."}
+{"level": "WARNING", "time": "2025-11-21 02:29:11,391", "module": "tasks", "message": "pytesseract or PIL not available - OCR functionality disabled"}
+{"level": "WARNING", "time": "2025-11-21 02:29:11,392", "module": "tasks", "message": "pdfplumber or PyPDF2 not available - PDF processing disabled"}
+{"level": "WARNING", "time": "2025-11-21 02:29:11,393", "module": "tasks", "message": "openai not available - LLM fallback disabled"}
+{"level": "ERROR", "time": "2025-11-21 02:29:26,999", "module": "redis", "message": "Connection to Redis lost: Retry (0/20) now."}
+{"level": "ERROR", "time": "2025-11-21 02:29:31,013", "module": "redis", "message": "Connection to Redis lost: Retry (1/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:29:36,028", "module": "redis", "message": "Connection to Redis lost: Retry (2/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:29:41,067", "module": "redis", "message": "Connection to Redis lost: Retry (3/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:29:46,082", "module": "redis", "message": "Connection to Redis lost: Retry (4/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:29:51,105", "module": "redis", "message": "Connection to Redis lost: Retry (5/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:29:56,121", "module": "redis", "message": "Connection to Redis lost: Retry (6/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:01,141", "module": "redis", "message": "Connection to Redis lost: Retry (7/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:06,155", "module": "redis", "message": "Connection to Redis lost: Retry (8/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:11,193", "module": "redis", "message": "Connection to Redis lost: Retry (9/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:16,226", "module": "redis", "message": "Connection to Redis lost: Retry (10/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:21,256", "module": "redis", "message": "Connection to Redis lost: Retry (11/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:26,285", "module": "redis", "message": "Connection to Redis lost: Retry (12/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:31,301", "module": "redis", "message": "Connection to Redis lost: Retry (13/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:36,316", "module": "redis", "message": "Connection to Redis lost: Retry (14/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:41,333", "module": "redis", "message": "Connection to Redis lost: Retry (15/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:46,346", "module": "redis", "message": "Connection to Redis lost: Retry (16/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:51,361", "module": "redis", "message": "Connection to Redis lost: Retry (17/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:30:56,389", "module": "redis", "message": "Connection to Redis lost: Retry (18/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:31:01,406", "module": "redis", "message": "Connection to Redis lost: Retry (19/20) in 1.00 second."}
+{"level": "CRITICAL", "time": "2025-11-21 02:31:06,421", "module": "redis", "message": "
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+"}
+{"level": "WARNING", "time": "2025-11-21 02:31:06,422", "module": "models", "message": "Failed to queue document processing for 52f6e73d-e7c8-43b3-aeef-b4e23b676e22: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it."}
+{"level": "ERROR", "time": "2025-11-21 02:31:18,564", "module": "redis", "message": "Connection to Redis lost: Retry (0/20) now."}
+{"level": "ERROR", "time": "2025-11-21 02:31:22,584", "module": "redis", "message": "Connection to Redis lost: Retry (1/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:31:27,603", "module": "redis", "message": "Connection to Redis lost: Retry (2/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:31:32,620", "module": "redis", "message": "Connection to Redis lost: Retry (3/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:31:37,643", "module": "redis", "message": "Connection to Redis lost: Retry (4/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:31:42,672", "module": "redis", "message": "Connection to Redis lost: Retry (5/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:31:47,701", "module": "redis", "message": "Connection to Redis lost: Retry (6/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:31:52,722", "module": "redis", "message": "Connection to Redis lost: Retry (7/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:31:57,749", "module": "redis", "message": "Connection to Redis lost: Retry (8/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:02,778", "module": "redis", "message": "Connection to Redis lost: Retry (9/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:07,827", "module": "redis", "message": "Connection to Redis lost: Retry (10/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:12,851", "module": "redis", "message": "Connection to Redis lost: Retry (11/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:17,870", "module": "redis", "message": "Connection to Redis lost: Retry (12/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:22,891", "module": "redis", "message": "Connection to Redis lost: Retry (13/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:27,911", "module": "redis", "message": "Connection to Redis lost: Retry (14/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:32,933", "module": "redis", "message": "Connection to Redis lost: Retry (15/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:37,955", "module": "redis", "message": "Connection to Redis lost: Retry (16/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:42,974", "module": "redis", "message": "Connection to Redis lost: Retry (17/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:47,995", "module": "redis", "message": "Connection to Redis lost: Retry (18/20) in 1.00 second."}
+{"level": "ERROR", "time": "2025-11-21 02:32:53,025", "module": "redis", "message": "Connection to Redis lost: Retry (19/20) in 1.00 second."}
+{"level": "CRITICAL", "time": "2025-11-21 02:32:58,044", "module": "redis", "message": "
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+"}
+{"level": "WARNING", "time": "2025-11-21 02:32:58,048", "module": "models", "message": "Failed to queue document processing for 99d1eda1-3370-47b3-9fcd-8cbeabdc745a: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it."}
