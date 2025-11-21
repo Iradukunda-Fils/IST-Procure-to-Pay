@@ -4,7 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 *.db
-.kiro
+.kiro/
 
 # Virtual environment
 venv/
